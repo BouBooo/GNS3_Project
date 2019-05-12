@@ -67,3 +67,74 @@ Les caméras et les serveurs possèdent un nom type CAMx-x et SRVx-x. Une camér
  - 33 Switchs
  (Caméras, PC etc)
 
+## Plan d'adressage IP
+
+Batiment 1, étage 1:
+```bash
+10.33.100.x
+10.33.101.x
+10.33.102.x
+10.33.103.x
+10.33.104.x
+```
+
+Batiment 1, étage 2:
+```bash
+10.33.110.x
+10.33.111.x
+10.33.112.x
+10.33.113.x
+10.33.114.x
+```
+
+Batiment 2, étage 1:
+```bash
+10.33.200.x
+10.33.201.x
+10.33.202.x
+10.33.203.x
+10.33.204.x
+```
+
+Batiment 2, étage 2:
+```bash
+10.33.210.x
+10.33.211.x
+10.33.212.x
+10.33.213.x
+10.33.214.x
+```
+
+Batiment 3, étage 1:
+```bash
+10.33.230.x
+10.33.231.x
+10.33.232.x
+10.33.233.x
+10.33.234.x
+```
+
+Batiment 3, étage 2:
+```bash
+10.33.240.x
+10.33.241.x
+10.33.242.x
+10.33.243.x
+10.33.244.x
+```
+
+20 Serveurs:
+```bash
+10.33.50.x
+```
+
+15 Caméras:
+```bash
+10.33.51.x
+```
+
+2 Admins:
+```bash
+10.33.52.10
+10.33.52.11
+```

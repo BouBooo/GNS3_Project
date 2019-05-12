@@ -1,4 +1,12 @@
 ﻿# GNS3_Project
+ 
+## Défi 
+
+##### Fournir un réseau stable à un grand nombre de clients sur un même site.
+
+3 Batiments 
+
+Chaque batiment compte 2 étages, avec 5 salles par étage
 
 
 ## Maquette Infra

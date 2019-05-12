@@ -2,11 +2,32 @@
  
 ## Défi 
 
-##### Fournir un réseau stable à un grand nombre de clients sur un même site.
+### Fournir un réseau stable à un grand nombre de clients sur un même site.
 
 3 Batiments 
 
 Chaque batiment compte 2 étages, avec 5 salles par étage
+
+## Détails projet
+
+#### > Locaux
+* 3 bâtiments
+  * 2 étages, 5 salles/étages
+  * chaque salle supporte au mini 30 clients
+
+#### > Clients du réseau
+
+* ~200 étudiants
+  * en moyenne, ils ont 1,5 équipements
+    * tous ont un PC
+    * certains utilisent smartphone/tablette avec la wifi
+* ~50 profs
+  * en moyenne, ils ont 1,5 équipements
+    * tous ont un PC
+    * certains utilisent smartphone/tablette avec la wifi
+* ~20 serveurs
+* 15 caméras
+* 2 admins
 
 
 ## Maquette Infra

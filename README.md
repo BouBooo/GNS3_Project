@@ -39,3 +39,10 @@ Chaque batiment compte 2 étages, avec 5 salles par étage
 Afin de simplifier le schéma, tous les éléments ne sont pas présents.
 Chaque colonne de swtich représente un batiment, le batiment type étant celui du milieu.
 Les caméras et les serveurs possèdent un nom type CAMx-x et SRVx-x. Une caméra reliée à un switch, et portant le nom CAM1-5, signifie que en cas réel, 5 caméras sont reliées à ce switch
+
+## Matériel nécessaire
+
+ - 1 Routeur
+ - 30 Switchs
+ (Caméras, PC etc)
+

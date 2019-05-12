@@ -31,3 +31,7 @@ Chaque batiment compte 2 étages, avec 5 salles par étage
                                            +-----+   +------+          +------+   +----+
 
 ```
+
+## Maquette GNS3
+
+

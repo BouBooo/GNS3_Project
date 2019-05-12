@@ -43,6 +43,6 @@ Les caméras et les serveurs possèdent un nom type CAMx-x et SRVx-x. Une camér
 ## Matériel nécessaire
 
  - 1 Routeur
- - 30 Switchs
+ - 30 + 3 Switchs
  (Caméras, PC etc)
 
